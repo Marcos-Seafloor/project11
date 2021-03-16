@@ -1,111 +1,111 @@
 [submodule "catkin_ws/src/asv_sim"]
 	path = catkin_ws/src/asv_sim
-	url = ../asv_sim.git
+	url = https://github.com/Marcos-Seafloor/asv_sim.git
 [submodule "catkin_ws/src/asv_helm"]
 	path = catkin_ws/src/asv_helm
-	url = ../asv_helm.git
+	url = https://github.com/Marcos-Seafloor/asv_helm.git
 [submodule "catkin_ws/src/mru_transform"]
 	path = catkin_ws/src/mru_transform
-	url = ../mru_transform
+	url = https://github.com/Marcos-Seafloor/mru_transform
 [submodule "catkin_ws/src/udp_bridge"]
 	path = catkin_ws/src/udp_bridge
-	url = ../udp_bridge.git
+	url = https://github.com/Marcos-Seafloor/udp_bridge.git
 [submodule "catkin_ws/src/marine_msgs"]
 	path = catkin_ws/src/marine_msgs
-	url = ../marine_msgs.git
+	url = https://github.com/Marcos-Seafloor/marine_msgs.git
 [submodule "catkin_ws/src/mbes_sim"]
 	path = catkin_ws/src/mbes_sim
-	url = ../mbes_sim.git
+	url = https://github.com/Marcos-Seafloor/mbes_sim.git
 [submodule "catkin_ws/src/command_bridge"]
 	path = catkin_ws/src/command_bridge
-	url = ../command_bridge.git
+	url = https://github.com/Marcos-Seafloor/command_bridge.git
 [submodule "catkin_ws/src/mission_manager"]
 	path = catkin_ws/src/mission_manager
-	url = ../mission_manager.git
+	url = https://github.com/Marcos-Seafloor/mission_manager.git
 [submodule "catkin_ws/src/dubins_curves"]
 	path = catkin_ws/src/dubins_curves
-	url = ../dubins_curves.git
+	url = https://github.com/Marcos-Seafloor/dubins_curves.git
 [submodule "catkin_ws/src/path_follower"]
 	path = catkin_ws/src/path_follower
-	url = ../path_follower.git
+	url = https://github.com/Marcos-Seafloor/path_follower.git
 [submodule "catkin_ws/src/kongsberg_em_control"]
 	path = catkin_ws/src/kongsberg_em_control
-	url = ../kongsberg_em_control.git
+	url = https://github.com/Marcos-Seafloor/kongsberg_em_control.git
 [submodule "catkin_ws/src/geographic_visualization_msgs"]
 	path = catkin_ws/src/geographic_visualization_msgs
-	url = ../geographic_visualization_msgs.git
+	url = https://github.com/Marcos-Seafloor/geographic_visualization_msgs.git
 [submodule "catkin_ws/src/joy_to_helm"]
 	path = catkin_ws/src/joy_to_helm
-	url = ../joy_to_helm.git
+	url = https://github.com/Marcos-Seafloor/joy_to_helm.git
 [submodule "catkin_ws/src/hover"]
 	path = catkin_ws/src/hover
-	url = ../hover.git
+	url = https://github.com/Marcos-Seafloor/hover.git
 [submodule "catkin_ws/src/path_planner"]
 	path = catkin_ws/src/path_planner
-	url = ../path_planner.git
+	url = https://github.com/Marcos-Seafloor/path_planner.git
 [submodule "catkin_ws/src/mpc"]
 	path = catkin_ws/src/mpc
-	url = ../mpc.git
+	url = https://github.com/Marcos-Seafloor/mpc.git
 [submodule "catkin_ws/src/course_made_good"]
 	path = catkin_ws/src/course_made_good
-	url = ../course_made_good.git
+	url = https://github.com/Marcos-Seafloor/course_made_good.git
 [submodule "catkin_ws/src/ais"]
 	path = catkin_ws/src/ais
-	url = ../ais.git
+	url = https://github.com/Marcos-Seafloor/ais.git
 [submodule "catkin_ws/src/axis_tracker"]
 	path = catkin_ws/src/axis_tracker
-	url = ../axis_tracker.git
+	url = https://github.com/Marcos-Seafloor/axis_tracker.git
 [submodule "catkin_ws/src/br24_radar"]
 	path = catkin_ws/src/br24_radar
-	url = ../br24_radar.git
+	url = https://github.com/Marcos-Seafloor/br24_radar.git
 [submodule "catkin_ws/src/echo_helm"]
 	path = catkin_ws/src/echo_helm
-	url = ../echo_helm.git
+	url = https://github.com/Marcos-Seafloor/echo_helm.git
 [submodule "catkin_ws/src/flir"]
 	path = catkin_ws/src/flir
-	url = ../flir.git
+	url = https://github.com/Marcos-Seafloor/flir.git
 [submodule "catkin_ws/src/kongsberg_em"]
 	path = catkin_ws/src/kongsberg_em
-	url = ../kongsberg_em.git
+	url = https://github.com/Marcos-Seafloor/kongsberg_em.git
 [submodule "catkin_ws/src/manda_coverage"]
 	path = catkin_ws/src/manda_coverage
-	url = ../manda_coverage.git
+	url = https://github.com/Marcos-Seafloor/manda_coverage.git
 [submodule "catkin_ws/src/mbr"]
 	path = catkin_ws/src/mbr
-	url = ../mbr.git
+	url = https://github.com/Marcos-Seafloor/mbr.git
 [submodule "catkin_ws/src/posmv"]
 	path = catkin_ws/src/posmv
-	url = ../posmv.git
+	url = https://github.com/Marcos-Seafloor/posmv.git
 [submodule "catkin_ws/src/radar_obstacle_detection"]
 	path = catkin_ws/src/radar_obstacle_detection
-	url = ../radar_obstacle_detection.git
+	url = https://github.com/Marcos-Seafloor/radar_obstacle_detection.git
 [submodule "catkin_ws/src/range_and_bearing"]
 	path = catkin_ws/src/range_and_bearing
-	url = ../range_and_bearing.git
+	url = https://github.com/Marcos-Seafloor/range_and_bearing.git
 [submodule "catkin_ws/src/seapath"]
 	path = catkin_ws/src/seapath
-	url = ../seapath.git
+	url = https://github.com/Marcos-Seafloor/seapath.git
 [submodule "catkin_ws/src/survey_manager"]
 	path = catkin_ws/src/survey_manager
-	url = ../survey_manager.git
+	url = https://github.com/Marcos-Seafloor/survey_manager.git
 [submodule "catkin_ws/src/traffic_sim"]
 	path = catkin_ws/src/traffic_sim
-	url = ../traffic_sim.git
+	url = https://github.com/Marcos-Seafloor/traffic_sim.git
 [submodule "catkin_ws/src/zboat_helm"]
 	path = catkin_ws/src/zboat_helm
-	url = ../zboat_helm.git
+	url = https://github.com/Marcos-Seafloor/zboat_helm.git
 [submodule "catkin_ws/src/camp"]
 	path = catkin_ws/src/camp
-	url = ../AutonomousMissionPlanner.git
+	url = https://github.com/Marcos-Seafloor/AutonomousMissionPlanner.git
 [submodule "catkin_ws/src/marine_traffic_com"]
 	path = catkin_ws/src/marine_traffic_com
-	url = ../marine_traffic_com.git
+	url = https://github.com/Marcos-Seafloor/marine_traffic_com.git
 [submodule "catkin_ws/src/transform_manager"]
 	path = catkin_ws/src/transform_manager
-	url = ../transform_manager.git
+	url = https://github.com/Marcos-Seafloor/transform_manager.git
 [submodule "catkin_ws/src/platforms/ben_description"]
 	path = catkin_ws/src/platforms/ben_description
-	url = ../ben_description
+	url = https://github.com/Marcos-Seafloor/ben_description
 [submodule "catkin_ws/src/helm_manager"]
 	path = catkin_ws/src/helm_manager
-	url = ../helm_manager
+	url = https://github.com/Marcos-Seafloor/helm_manager
